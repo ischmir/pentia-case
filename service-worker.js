@@ -3,9 +3,7 @@ const FILES_TO_CACHE = [
     "/",
     "/index.html",
     "/css/styles.css",
-    "/js/app.js",
-    "/assets/icon-192x192.png",
-    "/assets/icon-512x512.png"
+    "/js/app.js"
 ];
 
 self.addEventListener("install", (event) => {
